@@ -132,7 +132,7 @@ The dataset (`sample_questions_for_pilot_test.csv`) consists of construction cou
 
 ```bash
 # Clone the repository
-git clone https://github.com/<astonish24>/RannanProjects-codes-EBEWCenter
+git clone https://github.com/astonish24/RannanProjects-codes-EBEWCenter
 .git
 cd RannanProjects-codes-EBEWCenter
 
