@@ -132,8 +132,9 @@ The dataset (`sample_questions_for_pilot_test.csv`) consists of construction cou
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/construction-qa-llm.git
-cd construction-qa-llm
+git clone https://github.com/<astonish24>/RannanProjects-codes-EBEWCenter
+.git
+cd RannanProjects-codes-EBEWCenter
 
 # Install dependencies
 pip install -r requirements.txt
